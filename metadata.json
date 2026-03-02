@@ -1,0 +1,5 @@
+{
+  "name": "Coastal Plans Live Dashboard",
+  "description": "Real-time student presence and progress monitor driven by Google Sheets.",
+  "requestFramePermissions": []
+}

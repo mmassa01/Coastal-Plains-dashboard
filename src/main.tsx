@@ -1,4 +1,4 @@
-icat > src/main.tsx <<'EOF'
+cat > src/main.tsx <<'EOF'
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.tsx";

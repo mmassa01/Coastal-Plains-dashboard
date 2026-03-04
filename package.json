@@ -8,6 +8,7 @@
     "start": "NODE_ENV=production tsx server.ts"
   },
   "dependencies": {
+    "axios": "^1.13.6",
     "clsx": "^2.1.1",
     "express": "^4.19.2",
     "googleapis": "^133.0.0",
